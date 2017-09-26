@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-git 형상관리 테스트
+git 형상관리 테스트 <br>
+와 재밌다 졸리다~~
 </body>
 </html>
